@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=220&section=header&text=Hi,%20I'm%20Raviteja&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20things,%20breaking%20things,%20learning%20along%20the%20way&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/raviteja-core">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Software+Developer;Exploring+AI+Agents+%26+Automation;Curious+about+Security+%2F+Networking;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Software+Developer;Exploring+AI+Agents+%26+Automation;Curious+about+Security+and+Networking;Always+shipping+something+new&repeat=true" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -73,6 +73,8 @@ I'm a developer who likes building **practical, slightly unconventional projects
     </td>
   </tr>
 </table>
+
+<sub>Also building: <a href="https://github.com/raviteja-core/OBSIDIAN-LABS">OBSIDIAN-LABS</a> · <a href="https://github.com/raviteja-core/Code-Reviewer">Code-Reviewer</a> · <a href="https://github.com/raviteja-core/first_repo">first_repo</a></sub>
 
 </div>
 
