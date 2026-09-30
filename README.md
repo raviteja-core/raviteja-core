@@ -44,7 +44,7 @@ I enjoy every phase of building software, from initial architecture to debugging
       <p align="center"><sub>Distributed code-execution &amp; judge platform</sub></p>
       <p align="center">Event-driven judge on <b>Rust · Python · Kafka · Kubernetes</b>. Transactional outbox, gVisor-sandboxed runners, and a custom Rust scheduler with priority aging for multi-tenant fairness.</p>
       <p align="center">
-        <a href="https://github.com/raviteja-core/ForgeRun">
+        <a href="https://github.com/raviteja-core/Forged-In-Code">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviteja-core&repo=ForgeRun&theme=tokyonight&hide_border=true" />
         </a>
       </p>
