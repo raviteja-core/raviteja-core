@@ -9,6 +9,7 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/raviteja-m-786a66291/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://mutyala-raviteja.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
 <a href="mailto:raviteja.mutyala.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://huggingface.co/MRaviteja"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
 
@@ -242,6 +243,7 @@ I'm open to **SDE, backend, distributed systems, full-stack and AI/ML** opportun
 <div align="center">
 
 <a href="https://www.linkedin.com/in/raviteja-m-786a66291/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://mutyala-raviteja.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 <a href="mailto:raviteja.mutyala.dev@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
