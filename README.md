@@ -228,10 +228,6 @@ I enjoy every phase of building software, from initial architecture to debugging
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raviteja-core&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raviteja-core&theme=tokyo-night&hide_border=true" width="100%"/>
-
 </div>
 
 <br/>
