@@ -45,7 +45,7 @@ I enjoy every phase of building software, from initial architecture to debugging
       <p align="center">Event-driven judge on <b>Rust · Python · Kafka · Kubernetes</b>. Transactional outbox, gVisor-sandboxed runners, and a custom Rust scheduler with priority aging for multi-tenant fairness.</p>
       <p align="center">
         <a href="https://github.com/raviteja-core/Forged-In-Code">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviteja-core&repo=Forged-In-Code&theme=tokyonight&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviteja-core&repo=Forged-In-Code&theme=tokyonight&hide_border=true&v=2" />
         </a>
       </p>
     </td>
@@ -55,7 +55,7 @@ I enjoy every phase of building software, from initial architecture to debugging
       <p align="center">Rust matching engine with an arena-backed order book and lock-free SPSC pipeline. Peaks at <b>14.26M events/sec</b>, driven by self-exciting Hawkes order flow.</p>
       <p align="center">
         <a href="https://github.com/raviteja-core/avellaneda-mm-sim">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviteja-core&repo=avellaneda-mm-sim&theme=tokyonight&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviteja-core&repo=avellaneda-mm-sim&theme=tokyonight&hide_border=true&v=2" />
         </a>
       </p>
     </td>
@@ -67,7 +67,7 @@ I enjoy every phase of building software, from initial architecture to debugging
       <p align="center">LangGraph + MCP agents (planner, perception, memory, safety supervisor) flying a simulated drone through <b>PX4 SITL &amp; Gazebo</b>.</p>
       <p align="center">
         <a href="https://github.com/raviteja-core/AegisFlight">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviteja-core&repo=AegisFlight&theme=tokyonight&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviteja-core&repo=AegisFlight&theme=tokyonight&hide_border=true&v=2" />
         </a>
       </p>
     </td>
@@ -77,7 +77,7 @@ I enjoy every phase of building software, from initial architecture to debugging
       <p align="center">QLoRA-tuned Qwen2.5 for schema-strict tool calling, served locally via MCP. Tool-call reliability up from <b>81.2% → 99.6%</b> on adversarial tests.</p>
       <p align="center">
         <a href="https://github.com/raviteja-core/ReportGenie-AI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviteja-core&repo=ReportGenie-AI&theme=tokyonight&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviteja-core&repo=ReportGenie-AI&theme=tokyonight&hide_border=true&v=2" />
         </a>
       </p>
     </td>
@@ -89,7 +89,7 @@ I enjoy every phase of building software, from initial architecture to debugging
       <p align="center">Electron app orchestrating multiple local <b>Ollama</b> models for file-system and git workflows. Your code never leaves the machine.</p>
       <p align="center">
         <a href="https://github.com/raviteja-core/Jarvis-Local-Agent---Just-a-Rather-Very-Intelligent-System">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviteja-core&repo=Jarvis-Local-Agent---Just-a-Rather-Very-Intelligent-System&theme=tokyonight&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviteja-core&repo=Jarvis-Local-Agent---Just-a-Rather-Very-Intelligent-System&theme=tokyonight&hide_border=true&v=2" />
         </a>
       </p>
     </td>
@@ -99,7 +99,7 @@ I enjoy every phase of building software, from initial architecture to debugging
       <p align="center">FastAPI async ingestion pipeline feeding a <b>Three.js / Globe.gl</b> globe, tracking 100+ live attack paths at 60 FPS.</p>
       <p align="center">
         <a href="https://github.com/raviteja-core/Live-DDOS-simmulation">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviteja-core&repo=Live-DDOS-simmulation&theme=tokyonight&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=raviteja-core&repo=Live-DDOS-simmulation&theme=tokyonight&hide_border=true&v=2" />
         </a>
       </p>
     </td>
